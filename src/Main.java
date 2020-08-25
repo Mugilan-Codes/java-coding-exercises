@@ -24,6 +24,10 @@ public class Main {
         // 7. TeenNumberChecker Exercise
         // System.out.println(TeenNumberChecker.hasTeen(23, 24, 42));
 
+        // 8. AreaCalculator Exercise
+        // System.out.println(AreaCalculator.area(5.0));
+        // System.out.println(AreaCalculator.area(5.0, 4.0));
+
     }
 
 }
