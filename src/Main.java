@@ -24,6 +24,8 @@ public class Main {
         // 7. TeenNumberChecker Exercise
         // System.out.println(TeenNumberChecker.hasTeen(23, 24, 42));
 
+        // ==================================================== //
+
         // 8. AreaCalculator Exercise
         // System.out.println(AreaCalculator.area(5.0));
         // System.out.println(AreaCalculator.area(5.0, 4.0));
@@ -31,6 +33,9 @@ public class Main {
         // 9. MinutesToYearsDaysCalculator Exercise
         // MinutesToYearsDaysCalculator.printYearsAndDays(525600);
         // MinutesToYearsDaysCalculator.printYearsAndDays(561600);
+
+        // 10. IntEqualityPrinter Exercise
+        IntEqualityPrinter.printEqual(1, 2, 3);
 
     }
 
