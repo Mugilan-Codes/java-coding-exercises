@@ -35,7 +35,12 @@ public class Main {
         // MinutesToYearsDaysCalculator.printYearsAndDays(561600);
 
         // 10. IntEqualityPrinter Exercise
-        IntEqualityPrinter.printEqual(1, 2, 3);
+        // IntEqualityPrinter.printEqual(1, 2, 3);
+
+        // 11. PlayingCat Exercise
+        // System.out.println(PlayingCat.isCatPlaying(false, 35));
+
+        // ==================================================== //
 
     }
 
