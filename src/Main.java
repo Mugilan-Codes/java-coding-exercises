@@ -28,6 +28,10 @@ public class Main {
         // System.out.println(AreaCalculator.area(5.0));
         // System.out.println(AreaCalculator.area(5.0, 4.0));
 
+        // 9. MinutesToYearsDaysCalculator Exercise
+        // MinutesToYearsDaysCalculator.printYearsAndDays(525600);
+        // MinutesToYearsDaysCalculator.printYearsAndDays(561600);
+
     }
 
 }
